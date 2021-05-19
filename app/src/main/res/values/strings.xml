@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VendorVocals</string>
+    <string name="login">Login</string>
+    <string name="full_name">Full Name</string>
+    <string name="enter_email_adress">Enter Email Adress</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="otp_verification">OTP VERIFICATION</string>
+    <string name="we_will_send_you_an_one_time_password_on_this_mobile_number">we will send you an one time password on this mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_91">+91</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_the_otp_send_to">Enter the OTP send to</string>
+    <string name="didnt_received_otp">Didnt received OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">Verify</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="change_password">Change Password</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="fields">fields</string>
+    <string name="minimum_charges_in_rs">Minimum Charges (in Rs)</string>
+    <string name="profile">Profile</string>
+    <string name="orders_transactions">Orders/Transactions</string>
+    <string name="logout">Logout</string>
+    <string name="add_services">ADD SERVICES</string>
+    <string name="sub_service">Sub-Service</string>
+    <string name="rate_of_service">Rate of service</string>
+    <string name="admin_panel">ADMIN PANEL</string>
+    <string name="verify_vendors">Verify Vendors</string>
+    <string name="service_name">Service Name</string>
+    <string name="new_service">New Service</string>
+
+
+    -------ITEMS-------
+
+
+</resources>
